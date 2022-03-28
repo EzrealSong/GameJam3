@@ -17,11 +17,19 @@ Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 63257
 Successfully changed project path to: F:/GitHub/GameJam3/I Noah Guy
 F:/GitHub/GameJam3/I Noah Guy
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 31.14 ms, found 2 plugins.
+=======
+60728
+Successfully changed project path to: F:/GitHub/GameJam3/I Noah Guy
+F:/GitHub/GameJam3/I Noah Guy
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.62 ms, found 2 plugins.
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 60728
 Successfully changed project path to: F:/GitHub/GameJam3/I Noah Guy
@@ -53,6 +61,7 @@ Mono path[1] = 'F:/Unity/2020.3.28f1/Editor/Data/MonoBleedingEdge/lib/mono/unity
 Mono config path = 'F:/Unity/2020.3.28f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -69,6 +78,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56728
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -83,6 +94,9 @@ Domain Reload Profiling:
 	ReloadAssembly (388ms)
 		BeginReloadAssembly (53ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -123,6 +137,9 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (52ms)
 				ProcessInitializeOnLoadMethodAttributes (19ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -134,7 +151,11 @@ Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Registered in 0.002641 seconds.
+=======
+Registered in 0.002546 seconds.
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 Registered in 0.002546 seconds.
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -177,6 +198,7 @@ Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -194,6 +216,8 @@ Domain Reload Profiling:
 		BeginReloadAssembly (95ms)
 >>>>>>> parent of 1982ca0 (AnimalAI)
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -201,12 +225,16 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (607ms)
 		BeginReloadAssembly (95ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (11ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 		EndReloadAssembly (495ms)
@@ -219,6 +247,8 @@ Domain Reload Profiling:
 =======
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 		EndReloadAssembly (477ms)
 			LoadAssemblies (65ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -227,6 +257,9 @@ Domain Reload Profiling:
 			RebuildScriptCaches (25ms)
 			SetupLoadedEditorAssemblies (182ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -236,8 +269,13 @@ Domain Reload Profiling:
 				RefreshPlugins (0ms)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				BeforeProcessingInitializeOnLoad (49ms)
 				ProcessInitializeOnLoadAttributes (130ms)
+=======
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (123ms)
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 				BeforeProcessingInitializeOnLoad (47ms)
 				ProcessInitializeOnLoadAttributes (123ms)
@@ -257,6 +295,7 @@ Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1637 Unused Serialized files (Serialized files now loaded: 0)
@@ -265,6 +304,16 @@ System memory in use after: 94.8 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2093.
 Total: 1.856400 ms (FindLiveObjects: 0.079700 ms CreateObjectMapping: 0.029200 ms MarkObjects: 1.519600 ms  DeleteObjects: 0.227100 ms)
+=======
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1635 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.5 MB.
+System memory in use after: 93.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2091.
+Total: 1.893100 ms (FindLiveObjects: 0.082100 ms CreateObjectMapping: 0.029000 ms MarkObjects: 1.567600 ms  DeleteObjects: 0.213700 ms)
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -302,6 +351,7 @@ Received Import Request.
   artifactKey: Guid(4342357d0adabc348b3c60db544e2ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Start importing Assets/TerrainData_bc4873c2-74dd-4df3-9a53-e7c47c608f51.asset using Guid(4342357d0adabc348b3c60db544e2ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa7e7e0cde98cf97c58eaaa9b55edb96') in 0.101276 seconds 
   Import took 0.104202 seconds .
 
@@ -329,6 +379,8 @@ Received Import Request.
 Start importing Assets/TerrainData_14939900-6ce2-4cca-b2e5-48e4bd21942d.asset using Guid(6d37fc532d1983e448df9aeeb08c15f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee3ec26e68d4b4670af6ad79db909a6') in 0.045141 seconds 
   Import took 0.048172 seconds .
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 Start importing Assets/TerrainData_bc4873c2-74dd-4df3-9a53-e7c47c608f51.asset using Guid(4342357d0adabc348b3c60db544e2ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15630b29e8e7b19eed6320da90ef98b') in 0.295298 seconds 
@@ -622,6 +674,7 @@ Received Import Request.
 Start importing Assets/Buttons/PNG/10Button_Midl_Yellow.png using Guid(d7b4d635d5ebc2a4c967aed03f5c932c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab506de9e3a3fa853017103c7bc0cb9b') in 0.009148 seconds 
   Import took 0.011072 seconds .
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ========================================================================
 Received Import Request.
@@ -702,6 +755,59 @@ Start importing Assets/Low Poly Guns/Models/Guns/assault1/assault1.mat using Gui
 
 ========================================================================
 Received Import Request.
+=======
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Buttons/PNG/28button_green.png
+  artifactKey: Guid(131de190cb93c60499d0da6a2b7c592d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Buttons/PNG/28button_green.png using Guid(131de190cb93c60499d0da6a2b7c592d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5712439cfd536acf1a61396a3f855f') in 0.007407 seconds 
+  Import took 0.009265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Buttons/PNG/7button_green_middle.png
+  artifactKey: Guid(b8ede16274078e4479b1a6b2d1e5ea06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Buttons/PNG/7button_green_middle.png using Guid(b8ede16274078e4479b1a6b2d1e5ea06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '332ce8c2a5c3224e875eb444bcb60f4e') in 0.008794 seconds 
+  Import took 0.010833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.173132 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(1fef6bf1616fd7147b33b9f3aa72410f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(1fef6bf1616fd7147b33b9f3aa72410f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c773e3fac77e4f659b41898c2bf9b69') in 0.017505 seconds 
+  Import took 0.020422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.451355 seconds.
+  path: Assets/Fonts
+  artifactKey: Guid(8bbec4c47dc78f645a64600d8d98686b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts using Guid(8bbec4c47dc78f645a64600d8d98686b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6eb39bd5fd3fd2af0575156e27265f8') in 0.004309 seconds 
+  Import took 0.006251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.529479 seconds.
+  path: Assets/Fonts/Cartoon_Regular.ttf
+  artifactKey: Guid(75cd30797a74c654e8b74d21c2ebb81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/Cartoon_Regular.ttf using Guid(75cd30797a74c654e8b74d21c2ebb81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b15d234ab803c37f580cfae29ebeb7') in 0.030898 seconds 
+  Import took 0.032967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.735790 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/assault1/assault1.mat
+  artifactKey: Guid(c588de1bd0ae27543958b38850e54921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/assault1/assault1.mat using Guid(c588de1bd0ae27543958b38850e54921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1db61d0b6264c684df8255c92245ca2') in 0.703047 seconds 
+  Import took 0.705127 seconds .
+
+========================================================================
+Received Import Request.
+>>>>>>> parent of 1982ca0 (AnimalAI)
   Time since last request: 0.000189 seconds.
   path: Assets/Low Poly Guns/Models/Guns/assault4/assault4.mat
   artifactKey: Guid(a3de5fdd82f571f4eb16a3c2530b4303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -794,6 +900,7 @@ System memory in use after: 94.4 MB.
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2165.
 Total: 2.038500 ms (FindLiveObjects: 0.085200 ms CreateObjectMapping: 0.029700 ms MarkObjects: 1.697600 ms  DeleteObjects: 0.225400 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 1982ca0 (AnimalAI)
 
 ========================================================================
@@ -820,11 +927,16 @@ Start importing Assets/Scripts/Menu.cs using Guid(7bc3286b3ce94e44780066875e5319
   Import took 0.006541 seconds .
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 
 ========================================================================
 Received Import Request.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
   Time since last request: 250.199316 seconds.
   path: Assets/Scripts/Menu.cs
   artifactKey: Guid(7bc3286b3ce94e44780066875e53195a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -833,6 +945,9 @@ Start importing Assets/Scripts/Menu.cs using Guid(7bc3286b3ce94e44780066875e5319
 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   Time since last request: 6.744355 seconds.
   path: Assets/Scripts/Menu.cs
@@ -894,6 +1009,7 @@ System memory in use after: 94.4 MB.
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2167.
 Total: 1.903500 ms (FindLiveObjects: 0.087900 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.574600 ms  DeleteObjects: 0.208900 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 1982ca0 (AnimalAI)
 
 ========================================================================
@@ -906,9 +1022,12 @@ Start importing Assets/Scenes/GameField using Guid(35fb2e3eaa27c8d4495d235b2aa43
   Import took 0.005708 seconds .
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
 <<<<<<< HEAD
   Time since last request: 0.044906 seconds.
   path: Assets/Scenes/GameField/NavMesh.asset
@@ -916,6 +1035,8 @@ Received Import Request.
 Start importing Assets/Scenes/GameField/NavMesh.asset using Guid(ac750914f551de34481b0199b8523608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2379abbbbe8e19304eebf89e56e39528') in 0.013380 seconds 
   Import took 0.015404 seconds .
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   Time since last request: 15.642256 seconds.
@@ -970,6 +1091,7 @@ System memory in use after: 94.5 MB.
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2169.
 Total: 2.316700 ms (FindLiveObjects: 0.090900 ms CreateObjectMapping: 0.034500 ms MarkObjects: 1.948900 ms  DeleteObjects: 0.241800 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 1982ca0 (AnimalAI)
 
 ========================================================================
@@ -981,6 +1103,16 @@ Received Import Request.
 Start importing Assets/Cartoon Cat/Cartoon Cat.unity using Guid(8e64fa02faa950a4ea21df03f406f41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14900cb45a8c6ef215d0f1098d13579b') in 0.004660 seconds 
   Import took 0.006710 seconds .
 =======
+  Time since last request: 18.394774 seconds.
+  path: Assets/Scripts/Menu.cs
+  artifactKey: Guid(7bc3286b3ce94e44780066875e53195a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Menu.cs using Guid(7bc3286b3ce94e44780066875e53195a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71fb3f0fee5b43e00cfb179ee00861b6') in 0.003068 seconds 
+  Import took 0.004997 seconds .
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
+
+========================================================================
+Received Import Request.
   Time since last request: 18.394774 seconds.
   path: Assets/Scripts/Menu.cs
   artifactKey: Guid(7bc3286b3ce94e44780066875e53195a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1043,6 +1175,7 @@ System memory in use after: 94.5 MB.
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2171.
 Total: 1.859900 ms (FindLiveObjects: 0.085700 ms CreateObjectMapping: 0.032100 ms MarkObjects: 1.518000 ms  DeleteObjects: 0.223500 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 1982ca0 (AnimalAI)
 
 ========================================================================
@@ -1054,6 +1187,240 @@ Received Import Request.
 Start importing Assets/Scenes/GameField.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5bb4228ae0c9665afa24fe1058d626') in 0.004208 seconds 
   Import took 0.006203 seconds .
 =======
+  Time since last request: 39.163047 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog_FBX.fbx
+  artifactKey: Guid(75116d3ad847f4b308aea41d92d1efb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog_FBX.fbx using Guid(75116d3ad847f4b308aea41d92d1efb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a715c17f75052116e81d96492da94603') in 0.440710 seconds 
+  Import took 0.443725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.611392 seconds.
+  path: Assets/BloodDecalsAndEffects/BloodGushFX/BloodGushFX/Materials/BloodParticleA.mat
+  artifactKey: Guid(94a55713ee628a245a74794f36a1b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BloodDecalsAndEffects/BloodGushFX/BloodGushFX/Materials/BloodParticleA.mat using Guid(94a55713ee628a245a74794f36a1b6f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c7d6ff2970d127f36a80ceb5df79343') in 0.057902 seconds 
+  Import took 0.060021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/BloodDecalsAndEffects/BloodGushFX/BloodGushFX/Materials/BloodParticleB.mat
+  artifactKey: Guid(372655694a62c8f4cba7e4a00bda0cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BloodDecalsAndEffects/BloodGushFX/BloodGushFX/Materials/BloodParticleB.mat using Guid(372655694a62c8f4cba7e4a00bda0cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a337942b1e9e67516a6164f081f4bc') in 0.086068 seconds 
+  Import took 0.087850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/textures/blue.mat
+  artifactKey: Guid(cca42b20867c44ba8981cb8c0958b1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/textures/blue.mat using Guid(cca42b20867c44ba8981cb8c0958b1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9f6c5c128fa32a72a9813aed77ab4c') in 0.009156 seconds 
+  Import took 0.011135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/BloodDecalsAndEffects/BloodGushFX/BloodGushFX/Materials/BloodParticleC.mat
+  artifactKey: Guid(1226a3e53649e09428c4c0cf03714527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BloodDecalsAndEffects/BloodGushFX/BloodGushFX/Materials/BloodParticleC.mat using Guid(1226a3e53649e09428c4c0cf03714527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a21bdb4e83ae9460a3f6786167705fc') in 0.055330 seconds 
+  Import took 0.057226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.753237 seconds.
+  path: Assets/BloodDecalsAndEffects/BloodGushFX/brainsAndBlood/Materials/Brains_Material.mat
+  artifactKey: Guid(53bcb426812ccb244ac869c8d55fcc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BloodDecalsAndEffects/BloodGushFX/brainsAndBlood/Materials/Brains_Material.mat using Guid(53bcb426812ccb244ac869c8d55fcc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88a45411e21a8f73e12ad79100b9065') in 0.645777 seconds 
+  Import took 0.648113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Flooded_Grounds/Content/Trees/SrcMaterials/Branch1.mat
+  artifactKey: Guid(e2b1787858919764498bf5efb8d00efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Trees/SrcMaterials/Branch1.mat using Guid(e2b1787858919764498bf5efb8d00efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90e40193c84e87c73fb365d17707ef7') in 0.229124 seconds 
+  Import took 0.231338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.289427 seconds.
+  path: Assets/Flooded_Grounds/Content/Trees/SrcMaterials/BushFlower.mat
+  artifactKey: Guid(0342f626db4640949b5957c4231e5a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Trees/SrcMaterials/BushFlower.mat using Guid(0342f626db4640949b5957c4231e5a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950b46beb0f5b9493a2780d5b8c59713') in 0.341256 seconds 
+  Import took 0.343803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WhiteCircle AB.mat
+  artifactKey: Guid(7c9d6983f275678479ebf019a670f9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_WhiteCircle AB.mat using Guid(7c9d6983f275678479ebf019a670f9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428a24acf5abf42f0791b02ac214203f') in 0.047442 seconds 
+  Import took 0.049398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Low Poly Guns/Materials/Plane.mat
+  artifactKey: Guid(e96fa539506a82f4097ae5999f559460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Materials/Plane.mat using Guid(e96fa539506a82f4097ae5999f559460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eeaf350d8c711d9c45649015a256d2e') in 0.032558 seconds 
+  Import took 0.034453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/pistol4/pistol4_normal.png
+  artifactKey: Guid(662ac7af64edac14388027a3cc79fe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/pistol4/pistol4_normal.png using Guid(662ac7af64edac14388027a3cc79fe57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5d43521c6493cbf04c0de2a6acb76a') in 0.126306 seconds 
+  Import took 0.128372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Add.mat
+  artifactKey: Guid(c6c72eb3fd1471c489daf719f70f62aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Add.mat using Guid(c6c72eb3fd1471c489daf719f70f62aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd6ba387a31c496e8efa5a2a3873522d') in 0.059336 seconds 
+  Import took 0.061264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/pistol4/pistol4.mat
+  artifactKey: Guid(afdf30d8614b11d41a6337e2484e3570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/pistol4/pistol4.mat using Guid(afdf30d8614b11d41a6337e2484e3570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e2dc0e339783a50d6b48250617c364c') in 0.227603 seconds 
+  Import took 0.229489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Low Poly Guns/Models/Guns/pistol4/pistol4_diffuse.png
+  artifactKey: Guid(56cbec784c34691408510d822d647cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Guns/Models/Guns/pistol4/pistol4_diffuse.png using Guid(56cbec784c34691408510d822d647cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41c11ad82da206eef970cfd64c35c56') in 0.007749 seconds 
+  Import took 0.009723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Demo/Assets/CFXFree_Demo_Ground.mat
+  artifactKey: Guid(7b43a19f99847f94f8e4ab851c1cb07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Demo/Assets/CFXFree_Demo_Ground.mat using Guid(7b43a19f99847f94f8e4ab851c1cb07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13d1975a5afe9a772cfe05fef85a142') in 0.128550 seconds 
+  Import took 0.130495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Outline Add.mat
+  artifactKey: Guid(749ea6f567709834fbe474b44674e1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_Heart Outline Add.mat using Guid(749ea6f567709834fbe474b44674e1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3d5393150a19643d2df571ed39776e') in 0.052690 seconds 
+  Import took 0.054676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Flooded_Grounds/Prefabs/Nature/Trees/TreeCreator_Crinkly_A_Textures/normal_specular.png
+  artifactKey: Guid(70fae31ea13f069418d752478ebf953c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Prefabs/Nature/Trees/TreeCreator_Crinkly_A_Textures/normal_specular.png using Guid(70fae31ea13f069418d752478ebf953c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb08120d4d8f9a24c2860c6ba9d2a0b') in 0.013338 seconds 
+  Import took 0.015493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Flooded_Grounds/Content/Trees/SrcMeshes/Materials/No Name.mat
+  artifactKey: Guid(9b287fc6ac746294ab90a1dd4ec5e9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Trees/SrcMeshes/Materials/No Name.mat using Guid(9b287fc6ac746294ab90a1dd4ec5e9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2dba041ef786b332754a02d0251825') in 0.034762 seconds 
+  Import took 0.036753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Easy Primitive Animals/FarmEdition/Prefabs/Props/Chicken Feed.prefab
+  artifactKey: Guid(6fae98ba8b1e1ad468a95059e2b57a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Easy Primitive Animals/FarmEdition/Prefabs/Props/Chicken Feed.prefab using Guid(6fae98ba8b1e1ad468a95059e2b57a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ca275065b69dbacba79c1dd79a6f19') in 0.035663 seconds 
+  Import took 0.037706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_YellowStar.mat
+  artifactKey: Guid(26c880ce3c053d04982d2c8e435fdb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Electric/CFX_YellowStar.mat using Guid(26c880ce3c053d04982d2c8e435fdb95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7660257a993cad8d9b7a1db76a4d785a') in 0.066698 seconds 
+  Import took 0.068599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Scenes/GameField/NavMesh.asset
+  artifactKey: Guid(ac750914f551de34481b0199b8523608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameField/NavMesh.asset using Guid(ac750914f551de34481b0199b8523608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93eb0b1b43d9d48a3c9a8a257201ca1d') in 0.015141 seconds 
+  Import took 0.017683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_HeartBrokenSlice.mat
+  artifactKey: Guid(6573156ff7aedbe49b6d60c015d0a67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Symbols/CFX2_HeartBrokenSlice.mat using Guid(6573156ff7aedbe49b6d60c015d0a67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b520b1cf6c412880a356abf0cad643ef') in 0.035142 seconds 
+  Import took 0.036984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_ShinyStar Add.mat
+  artifactKey: Guid(c1b09b1ca8ba05d4682ccf6db6b1102d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/Cartoon FX/Materials/Misc/CFX2_ShinyStar Add.mat using Guid(c1b09b1ca8ba05d4682ccf6db6b1102d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e4c675cc8fc01e752b0c14a7db6688') in 0.027712 seconds 
+  Import took 0.029453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Flooded_Grounds/PostProcessing/Textures/LUTs/NeutralLUT_32.png
+  artifactKey: Guid(4f98e9c96c8a48541b5eb704e92d99b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/PostProcessing/Textures/LUTs/NeutralLUT_32.png using Guid(4f98e9c96c8a48541b5eb704e92d99b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf11d904106a091f90dda4f12ae53e2e') in 0.017889 seconds 
+  Import took 0.019686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.235900 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/textures/Yellow.mat
+  artifactKey: Guid(a3b2303950a624313b019c4834557628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/textures/Yellow.mat using Guid(a3b2303950a624313b019c4834557628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e49a9186ae01f3352a47bd78948e7f') in 0.141679 seconds 
+  Import took 0.143598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/textures/yellow.png
+  artifactKey: Guid(ec9b0290197004251a07673690f7e065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/textures/yellow.png using Guid(ec9b0290197004251a07673690f7e065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e22a894f444a34b20005d410e94c29') in 0.016850 seconds 
+  Import took 0.018878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/textures/Yellow_Black.png
+  artifactKey: Guid(4df24209a5cec4ec89c19aecc4bcbf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/textures/Yellow_Black.png using Guid(4df24209a5cec4ec89c19aecc4bcbf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53dd734352f3fffa5a38cbebcf1abd3c') in 0.092812 seconds 
+  Import took 0.094748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla2/Villa2_Wall_Mid_D.fbx
+  artifactKey: Guid(0dafcec3076e9e143a3b8f59b6b64d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Flooded_Grounds/Content/Meshes/mBuildings/mVilla2/Villa2_Wall_Mid_D.fbx using Guid(0dafcec3076e9e143a3b8f59b6b64d86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa9c71c9a6f057b329378b94a5b967f') in 0.025397 seconds 
+  Import took 0.027773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Models/poisondartfrog/ToxicFrogs/textures/Yellow_Black.mat
+  artifactKey: Guid(989ddabccad084bdb8cc0c19d680b330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/poisondartfrog/ToxicFrogs/textures/Yellow_Black.mat using Guid(989ddabccad084bdb8cc0c19d680b330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda59295704f01793daa85366462ad37') in 0.012691 seconds 
+  Import took 0.014801 seconds .
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
+
+========================================================================
+Received Import Request.
   Time since last request: 39.163047 seconds.
   path: Assets/Models/poisondartfrog/ToxicFrogs/ToxicFrog_FBX.fbx
   artifactKey: Guid(75116d3ad847f4b308aea41d92d1efb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1564,6 +1931,25 @@ System memory in use after: 109.0 MB.
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2186.
 Total: 1.958000 ms (FindLiveObjects: 0.100500 ms CreateObjectMapping: 0.028400 ms MarkObjects: 1.580700 ms  DeleteObjects: 0.247600 ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+
+========================================================================
+Received Import Request.
+  Time since last request: 919.730430 seconds.
+  path: Assets/Buttons/PNG/foggy_bg.png
+  artifactKey: Guid(4595fb6fcf5db27409179971718d5ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Buttons/PNG/foggy_bg.png using Guid(4595fb6fcf5db27409179971718d5ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11aa6801f0597d8f429b74a4faaa7d54') in 0.027291 seconds 
+  Import took 0.030177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.424981 seconds.
+  path: Assets/Buttons/PNG/foggy_bg.png
+  artifactKey: Guid(4595fb6fcf5db27409179971718d5ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Buttons/PNG/foggy_bg.png using Guid(4595fb6fcf5db27409179971718d5ac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7deff2a1692b601a9eaca2955a2fb7c') in 0.033979 seconds 
+  Import took 0.035935 seconds .
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 
 ========================================================================
@@ -1605,7 +1991,11 @@ Received Prepare
 Registering precompiled user dll's ...
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Registered in 0.002621 seconds.
+=======
+Registered in 0.002701 seconds.
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 Registered in 0.002701 seconds.
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -1644,6 +2034,7 @@ Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1661,6 +2052,8 @@ Domain Reload Profiling:
 		BeginReloadAssembly (84ms)
 >>>>>>> parent of 1982ca0 (AnimalAI)
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
 Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -1668,11 +2061,15 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (605ms)
 		BeginReloadAssembly (84ms)
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 			CreateAndSetChildDomain (20ms)
@@ -1690,11 +2087,20 @@ Domain Reload Profiling:
 		EndReloadAssembly (482ms)
 			LoadAssemblies (72ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
+=======
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (482ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+>>>>>>> parent of 1982ca0 (AnimalAI)
 			SetupTypeCache (170ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (23ms)
 			SetupLoadedEditorAssemblies (176ms)
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 =======
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -1702,6 +2108,7 @@ Domain Reload Profiling:
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 				BeforeProcessingInitializeOnLoad (44ms)
@@ -1752,6 +2159,24 @@ Total: 2.080700 ms (FindLiveObjects: 0.087100 ms CreateObjectMapping: 0.028700 m
 <<<<<<< HEAD
 >>>>>>> parent of 1982ca0 (AnimalAI)
 =======
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
+				BeforeProcessingInitializeOnLoad (45ms)
+				ProcessInitializeOnLoadAttributes (119ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1599 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.6 MB.
+System memory in use after: 109.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2191.
+Total: 2.080700 ms (FindLiveObjects: 0.087100 ms CreateObjectMapping: 0.028700 ms MarkObjects: 1.728000 ms  DeleteObjects: 0.236400 ms)
 >>>>>>> parent of 1982ca0 (AnimalAI)
 
 AssetImportParameters requested are different than current active one (requested -> active):
