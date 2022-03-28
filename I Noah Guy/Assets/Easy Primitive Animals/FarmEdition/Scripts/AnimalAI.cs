@@ -60,7 +60,7 @@ public class AnimalAI : MonoBehaviour
             yield return new WaitForSeconds(rotTime);
             isRotatingRight = false;
         }
-        if (rotateLorR == 2)) 
+        if (rotateLorR == 2)
         {
             isRotatingLeft = true;
             yield return new WaitForSeconds (rotTime);
