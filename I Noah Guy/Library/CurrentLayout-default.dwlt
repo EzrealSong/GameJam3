@@ -66,15 +66,21 @@ MonoBehaviour:
     width: 1920
     height: 947
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
   controlID: 46
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
   controlID: 35
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 --- !u!114 &3
 MonoBehaviour:
@@ -98,15 +104,21 @@ MonoBehaviour:
     width: 1920
     height: 947
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 47
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
   controlID: 36
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 --- !u!114 &4
 >>>>>>> Stashed changes
@@ -136,9 +148,12 @@ MonoBehaviour:
     width: 356
     height: 947
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -175,8 +190,13 @@ MonoBehaviour:
     width: 202
     height: 629
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
+=======
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -204,6 +224,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 552
     width: 1454
     height: 379
@@ -211,6 +232,8 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
     y: 629
     width: 1564
     height: 318
@@ -299,9 +322,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 961
     width: 1904
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
     y: 977
     width: 1920
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -345,6 +371,9 @@ MonoBehaviour:
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 37
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 --- !u!114 &11
 >>>>>>> Stashed changes
@@ -384,6 +413,9 @@ MonoBehaviour:
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
   controlID: 38
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
 --- !u!114 &12
 >>>>>>> Stashed changes
@@ -451,6 +483,9 @@ MonoBehaviour:
     y: 702
     width: 1563
     height: 297
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -479,6 +514,7 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     scrollPos: {x: 0, y: 18}
     m_SelectedIDs: 00480000
@@ -491,10 +527,15 @@ MonoBehaviour:
     m_ExpandedIDs: 000000000e40000010400000124000001440000016400000184000004640000000ca9a3b
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
     scrollPos: {x: 0, y: 95}
     m_SelectedIDs: 82450000
     m_LastClickedID: 17794
     m_ExpandedIDs: 000000000a4500000e4500001245000016450000184500001c4500009c45000000ca9a3b
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -524,11 +565,15 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     m_ExpandedIDs: 00000000724600007446000076460000784600007a4600007c460000
 =======
     m_ExpandedIDs: 000000000e4000001040000012400000144000001640000018400000
 >>>>>>> Stashed changes
+=======
+    m_ExpandedIDs: 000000000a4500000c4500000e45000010450000124500001445000016450000184500001a4500001c450000
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
     m_ExpandedIDs: 000000000a4500000c4500000e45000010450000124500001445000016450000184500001a4500001c450000
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -622,6 +667,9 @@ MonoBehaviour:
     y: 73
     width: 355
     height: 926
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
@@ -666,11 +714,15 @@ MonoBehaviour:
     y: 73
     width: 201
     height: 608
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -679,6 +731,11 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: 50fbffff
 >>>>>>> Stashed changes
+=======
+      m_SelectedIDs: 58d30000
+      m_LastClickedID: 54104
+      m_ExpandedIDs: 10f9fdff3a67feff46d5feff2221ffff4427ffff6a29ffff20a5ffffd2acffff70fbffff
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
       m_SelectedIDs: 58d30000
       m_LastClickedID: 54104
@@ -737,6 +794,9 @@ MonoBehaviour:
     y: 73
     width: 1360
     height: 608
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -751,9 +811,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 183.38036, y: 105.60522, z: 177.72827}
     speed: 2
     m_Value: {x: 183.38036, y: 105.60522, z: 177.72827}
+=======
+    m_Target: {x: 187.88808, y: 123.20893, z: 201.49869}
+    speed: 2
+    m_Value: {x: 187.88808, y: 123.20893, z: 201.49869}
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
     m_Target: {x: 187.88808, y: 123.20893, z: 201.49869}
     speed: 2
@@ -806,6 +872,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.004180431, y: -0.49418187, z: 0.0023772323, w: -0.8693402}
     speed: 2
 <<<<<<< Updated upstream
@@ -813,6 +880,11 @@ MonoBehaviour:
 =======
     m_Value: {x: -0.4143797, y: -0.20876364, z: 0.097227454, w: -0.88011634}
 >>>>>>> Stashed changes
+=======
+    m_Target: {x: -0.11641384, y: -0.50286174, z: 0.06807253, w: -0.8533828}
+    speed: 2
+    m_Value: {x: -0.11635127, y: -0.50431323, z: 0.06827035, w: -0.8529184}
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
     m_Target: {x: -0.11641384, y: -0.50286174, z: 0.06807253, w: -0.8533828}
     speed: 2
@@ -876,6 +948,9 @@ MonoBehaviour:
     y: 73
     width: 1360
     height: 608
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
@@ -885,7 +960,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 1532, y: 769}
+=======
+  m_TargetSize: {x: 1360, y: 587}
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
   m_TargetSize: {x: 1360, y: 587}
 >>>>>>> parent of 1982ca0 (AnimalAI)
@@ -912,9 +991,14 @@ MonoBehaviour:
     m_HBaseRangeMin: -680
     m_HBaseRangeMax: 680
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_VBaseRangeMin: -317.5
     m_VBaseRangeMax: 317.5
 >>>>>>> Stashed changes
+=======
+    m_VBaseRangeMin: -293.5
+    m_VBaseRangeMax: 293.5
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
     m_VBaseRangeMin: -293.5
     m_VBaseRangeMax: 293.5
@@ -945,10 +1029,16 @@ MonoBehaviour:
       y: 0
       width: 1360
 <<<<<<< HEAD
+<<<<<<< HEAD
       height: 635
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 680, y: 317.5}
 >>>>>>> Stashed changes
+=======
+      height: 587
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 680, y: 293.5}
+>>>>>>> parent of 1982ca0 (AnimalAI)
 =======
       height: 587
     m_Scale: {x: 1, y: 1}
@@ -968,6 +1058,7 @@ MonoBehaviour:
 =======
       x: -680
 <<<<<<< HEAD
+<<<<<<< HEAD
       y: -317.5
       width: 1360
       height: 635
@@ -976,12 +1067,17 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
 =======
+=======
+>>>>>>> parent of 1982ca0 (AnimalAI)
       y: -293.5
       width: 1360
       height: 587
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1360, y: 608}
+<<<<<<< HEAD
+>>>>>>> parent of 1982ca0 (AnimalAI)
+=======
 >>>>>>> parent of 1982ca0 (AnimalAI)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
