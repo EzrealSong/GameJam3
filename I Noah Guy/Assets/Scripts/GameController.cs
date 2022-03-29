@@ -14,6 +14,8 @@ public class GameController : MonoBehaviour
         if (gameplay == false)
         {
             GameEndCanvas.SetActive(true);
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
         }
     }    
 }
