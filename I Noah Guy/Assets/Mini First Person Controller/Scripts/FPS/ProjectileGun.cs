@@ -6,9 +6,10 @@ public class ProjectileGun : MonoBehaviour
 {
     [SerializeField] private Transform gunBarrel;
     [SerializeField] private GameObject ammo;
-    [SerializeField] private float power = 3.0f;
-    [SerializeField] private float fireRate = 10.0f;
+    [SerializeField] private float power = 30.0f;
+    [SerializeField] private float fireRate = .75f;
     [SerializeField] private float timer;
+    [SerializeField] private AudioSource fireNoise;
     private float shotDelay;
     private bool canShoot = true;
     // Start is called before the first frame update
@@ -35,6 +36,8 @@ public class ProjectileGun : MonoBehaviour
                 bullet.GetComponent<Rigidbody>().AddForce(gunBarrel.forward * power, ForceMode.Impulse);
                 canShoot = false;
                 timer = 0.0f;
+                fireNoise.Play(0);
+
             }
         }
     }
