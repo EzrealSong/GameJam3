@@ -7,7 +7,8 @@ public class CountdownToStartGame : MonoBehaviour
 {
     public int countdownTime;
     public Text countdownDisplay;
-
+    public GameController gameController;
+    
     private void Start()
     {
         StartCoroutine(CountdownToStart());
@@ -22,12 +23,11 @@ public class CountdownToStartGame : MonoBehaviour
             countdownTime--;
         }
 
-        countdownDisplay.text = "GO!";
+        countdownDisplay.text = "TIME OUT";
 
-        //GameController.instance.BeginGame();
-        
         yield return new WaitForSeconds(1f);
         countdownDisplay.gameObject.SetActive(false);
+        gameController.GameOver();
     }
     
 }

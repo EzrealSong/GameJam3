@@ -12,6 +12,10 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene("GameField");
     }
 
+    public void Home()
+    {
+        SceneManager.LoadScene("Menu");
+    }
     public void Quit()
     {
         Debug.Log("Quit");
