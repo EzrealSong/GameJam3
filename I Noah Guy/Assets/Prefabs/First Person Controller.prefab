@@ -1485,11 +1485,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2182975366318728685}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1785e258c05207d44bfbb5586be525d3, type: 3}
+  m_Script: {fileID: 11500000, guid: aabee03e516278141b558ac2548c2d30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   gunBarrel: {fileID: 2183806820491508645}
-  ammo: {fileID: 897203290063585271, guid: 82615783926586d48a7e2c7d41a8a92e, type: 3}
+  ammo: {fileID: 5835340292052053437, guid: 35e1a32b15754db4c83a82b0cef323ff, type: 3}
   power: 30
-  fireRate: 10
+  fireRate: 0.7
   timer: 0
