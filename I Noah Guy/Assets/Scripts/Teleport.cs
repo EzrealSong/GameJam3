@@ -9,10 +9,10 @@ public class Teleport : MonoBehaviour
     [SerializeField] private AudioSource ding;
     [SerializeField] private AudioSource teleportNoise;
     private int counter = 0;
+    
     void OnTriggerEnter(Collider other)
     {
         if(this.tag == "Chicken") {
-
             this.transform.position = teleportTarget.transform.position;
             teleportNoise.Play(0);
         } else if (this.tag == "Cow")

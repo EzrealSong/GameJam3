@@ -1151,10 +1151,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "You play as Noah in the last few minutes before the arc has to depart.
-    But oh no, some of the animals haven\u2019t boarded the ship yet. It\u2019s your
-    job to transport them on board by shoot them using a \u201CPacifying gun\u201D
-    before the time limit expires. Different animals need different kinds of resistance"
+  m_Text: 'You play as JOJO Noah. As jojo, an animal lover and owner of Stand, you
+    take a boat to an island. You want the animals to be truly free. So you will
+    use the Stand''s ability (Learn to fly) to them, so those animals on the ground
+    can also fly to the sky to be saved from humans
+
+
+'
 --- !u!222 &1167550477
 CanvasRenderer:
   m_ObjectHideFlags: 0
